@@ -38,3 +38,6 @@ gem 'spring',        group: :development
 # Use debugger
 # gem 'debugger', group: [:development, :test]
 
+gem 'sidekiq',   '3.3.0'
+gem 'paperclip', '4.2.0'
+gem 'sinatra'
